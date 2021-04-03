@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.exe
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.deps.json
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.json
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.dll
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.pdb
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.dll
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.pdb
+C:\Users\lenovo\Desktop\Код\c#\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.genruntimeconfig.cache

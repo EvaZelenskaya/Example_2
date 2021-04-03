@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOp/jNQLLVTUJwOGAn6RoMRC05JSMPbhJ1wLIl8mFCu/cUU22ZKcQuyVHjYmN5DHHFpqesdvG4j4lw965GQWug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Код\\c#\\Lab_8\\Lab_8\\Lab_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

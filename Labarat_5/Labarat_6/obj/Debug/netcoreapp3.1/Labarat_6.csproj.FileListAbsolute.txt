@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\bin\Debug\netcoreapp3.1\Labarat_6.exe
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\bin\Debug\netcoreapp3.1\Labarat_6.deps.json
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\bin\Debug\netcoreapp3.1\Labarat_6.runtimeconfig.json
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\bin\Debug\netcoreapp3.1\Labarat_6.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\bin\Debug\netcoreapp3.1\Labarat_6.dll
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\bin\Debug\netcoreapp3.1\Labarat_6.pdb
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\obj\Debug\netcoreapp3.1\Labarat_6.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\obj\Debug\netcoreapp3.1\Labarat_6.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\obj\Debug\netcoreapp3.1\Labarat_6.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\obj\Debug\netcoreapp3.1\Labarat_6.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\obj\Debug\netcoreapp3.1\Labarat_6.dll
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\obj\Debug\netcoreapp3.1\Labarat_6.pdb
+C:\Users\lenovo\Desktop\Код\c#\Разработка кода ИС\Labarat_6\Labarat_6\obj\Debug\netcoreapp3.1\Labarat_6.genruntimeconfig.cache
