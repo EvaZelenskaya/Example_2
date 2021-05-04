@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
@@ -8,3 +9,15 @@ C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debu
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+=======
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+>>>>>>> 83612dc093834b5e7df9a30590d774f478d2aa22

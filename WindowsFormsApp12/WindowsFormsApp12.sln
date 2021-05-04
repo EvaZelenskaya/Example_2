@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {A0A0271A-D6FD-4EB7-A1EB-6C36D1C10175}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp12", "WindowsFormsApp12\WindowsFormsApp12.csproj", "{4F6712DD-E1CC-4916-9130-58FFB7590739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6712DD-E1CC-4916-9130-58FFB7590739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6712DD-E1CC-4916-9130-58FFB7590739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6712DD-E1CC-4916-9130-58FFB7590739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6712DD-E1CC-4916-9130-58FFB7590739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A0271A-D6FD-4EB7-A1EB-6C36D1C10175}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 83612dc093834b5e7df9a30590d774f478d2aa22

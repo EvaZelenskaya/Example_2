@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
@@ -8,3 +9,15 @@ C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debu
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+=======
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+>>>>>>> 83612dc093834b5e7df9a30590d774f478d2aa22

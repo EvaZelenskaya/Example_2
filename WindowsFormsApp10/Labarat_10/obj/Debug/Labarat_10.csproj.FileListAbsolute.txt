@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\bin\Debug\Labarat_10.exe.config
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\bin\Debug\Labarat_10.exe
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\bin\Debug\Labarat_10.pdb
@@ -8,3 +9,15 @@ C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labar
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.exe
 C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.pdb
+=======
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\bin\Debug\Labarat_10.exe.config
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\bin\Debug\Labarat_10.exe
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\bin\Debug\Labarat_10.pdb
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.Form1.resources
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.Properties.Resources.resources
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.exe
+C:\Users\lenovo\Desktop\GIT\CODE_C#\WindowsFormsApp10\Labarat_10\obj\Debug\Labarat_10.pdb
+>>>>>>> 83612dc093834b5e7df9a30590d774f478d2aa22
