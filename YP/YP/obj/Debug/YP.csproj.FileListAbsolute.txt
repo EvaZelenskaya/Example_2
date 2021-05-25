@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\GIT\CODE_C#\YP\YP\bin\Debug\YP.exe.config
+C:\Users\lenovo\Desktop\GIT\CODE_C#\YP\YP\bin\Debug\YP.exe
+C:\Users\lenovo\Desktop\GIT\CODE_C#\YP\YP\bin\Debug\YP.pdb
+C:\Users\lenovo\Desktop\GIT\CODE_C#\YP\YP\obj\Debug\YP.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\YP\YP\obj\Debug\YP.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\GIT\CODE_C#\YP\YP\obj\Debug\YP.exe
+C:\Users\lenovo\Desktop\GIT\CODE_C#\YP\YP\obj\Debug\YP.pdb

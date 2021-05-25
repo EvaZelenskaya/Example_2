@@ -1,0 +1,19 @@
+﻿<Window x:Class="Lab_15.DockPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_15"
+        mc:Ignorable="d"
+        Title="DockPanel" Height="450" Width="800">
+    <Grid>
+        <DockPanel LastChildFill="False" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="400" Width="800" Background="AliceBlue">
+            <DatePicker  HorizontalAlignment="Right" VerticalAlignment="Top"/>
+            <PasswordBox Background="LightPink"  Margin="10 150 20 30" DockPanel.Dock="top" />
+            <CheckBox Background="LightPink" HorizontalAlignment="Right" Margin="10 100 20 0" DockPanel.Dock="top"/>
+            <Rectangle Fill="LightPink" Width="400" Height="50" RadiusX="15" RadiusY="15" Margin="10 10 10 10" DockPanel.Dock="top" />
+
+
+        </DockPanel>
+    </Grid>
+</Window>
